@@ -1,0 +1,30 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Create your QR code in §lMINECRAFT!!!\n§r§bBy Baby_2016",
+    "name": "QR_Code Generator",
+    "uuid": "ff0eca6c-4017-49cf-810b-05f14a92a4ab",
+    "min_engine_version": [
+      1,
+      21,
+      0
+    ],
+    "version": [
+      1,
+      0,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "Create your QR code in §lMINECRAFT!!!",
+      "type": "data",
+      "uuid": "21d11855-ab45-474e-a2b5-52c741609336",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}
